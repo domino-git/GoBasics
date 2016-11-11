@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 /*
- * This is a comment 2
+ * This is a comment 3
  */
 
 func main() {
